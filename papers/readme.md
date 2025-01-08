@@ -1,8 +1,10 @@
 
 Jan 08, 2025 
 
-✅ [**Siamese Neural Networks for One-shot Image Recognition**](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)    
-  * The paper discusses a method for tackling **one-shot learning**, where a model must learn from very few examples. Siamese neural networks are trained to rank the similarity between inputs using a convolutional architecture, allowing the model to generalize well to new classes from unknown distributions. The approach is shown to achieve competitive performance on one-shot classification tasks, especially on datasets like Omniglot, which involves character recognition from a few examples.  
+✅ [**Siamese Neural Networks for One-shot Image Recognition**](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) (2015)  
+https://paperswithcode.com/paper/siamese-neural-networks-for-one-shot-image   
+  * The paper discusses a method for tackling **one-shot learning**, where a model must learn from very few examples. Siamese neural networks are trained to rank the similarity between inputs using a convolutional architecture, allowing the model to generalize well to new classes from unknown distributions. The approach is shown to achieve competitive performance on one-shot classification tasks, especially on datasets like Omniglot, which involves character recognition from a few examples.
+  * "Overall, research into one-shot learning algorithms is fairly immature and has received limited attention by the machine learning community. There are nevertheless a few key lines of work which precede this paper."  
 
 ---   
 
