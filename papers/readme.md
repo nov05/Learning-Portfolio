@@ -1,4 +1,6 @@
 
+Jan 08, 2025 [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)    
+
 ## Statisticum: Data Statistics Management in SAP HANA 
 Anisoara Nica, Reza Sherkat, Mihnea Andrei, Xun Cheng  
 Martin Heidel, Christian Bensberg, Heiko Gerwens  
