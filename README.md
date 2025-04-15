@@ -8,12 +8,12 @@
 
 👉 Cumulative Hours (Until End of 2019): 
 
-**Data Science 【425 hours committed】**    
-**Machine Learning 【200 hours committed】**    
-**SAP 【222 hours committed】**      
-Computer Science  
-Mathematics  
-Others 【4 hours commited】　  
+* **Data Science 【425 hours committed】**    
+* **Machine Learning 【200 hours committed】**    
+* **SAP 【222 hours committed】**      
+* Computer Science  
+* Mathematics  
+* Others 【4 hours commited】　  
 
 # 【Project】
   
