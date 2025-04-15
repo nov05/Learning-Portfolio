@@ -1,8 +1,16 @@
-# 【Nov05's MOOC Learning Portfolio】
+# 🟢 **Nov05's MOOC Learning Portfolio**
 
-**SAP 【222 hours committed】    
-Data Science 【425 hours committed】  
-Machine Learning 【200 hours committed】**
+* 2025-04-15 Stanford AA228V/CS238V, [**Validation of Safety Critical Systems**](https://aa228v.stanford.edu/)
+  * [16 videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
+  * [1 textbook (441 pages)](https://algorithmsbook.com/validation/)  
+
+--- 
+
+👉 Cumulative Hours (Until End of 2019): 
+
+**Data Science 【425 hours committed】**  
+**Machine Learning 【200 hours committed】**
+**SAP 【222 hours committed】**   
 
 Computer Science  
 Mathematics  
